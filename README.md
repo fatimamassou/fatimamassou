@@ -6,7 +6,7 @@
 
 ## 🔧 My Tech Stack
 - *Languages:* Python, PHP, JavaScript, typeScript, HTML, CSS
-- *Libraries & Frameworks:*React, Laravel, jQuery, Ajax, Bootstrap, Tkinter, AOS (Animate On Scroll)
+- Libraries & Frameworks: React, Laravel, jQuery, Ajax, Bootstrap, Tkinter, AOS (Animate On Scroll)
 - *Tools & Databases:* MySQL Workbench, phpMyAdmin 
 - *Other Skills:* Figma ,starUml, Machine Learning, Object-Oriented Programming (OOP), JSON, Data Structures, Algorithms, Website Hosting 
 
