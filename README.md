@@ -1,14 +1,14 @@
 
 # 🌟 Hello, I'm MASSOU FATIMA! 🌟
-| I'm a passionate full-stack developer student with 1 year of experience, constantly pushing my boundaries to learn and grow in the tech world. With a strong foundation in both front-end and back-end development, I enjoy bringing ideas to life with clean, efficient code, engaging animations, and cutting-edge machine learning techniques.                              | ![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVrd3gyNmxzb2hzNnV1NWUwbXdwY3JxbGdtOXprZGVqaDZiOTcyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6Gkz5AVTo7o4/giphy.gif)  |
+| I'm a passionate full-stack developer student with 2 years of experience, constantly pushing my boundaries to learn and grow in the tech world. With a strong foundation in both front-end and back-end development, I enjoy bringing ideas to life with clean, efficient code, engaging animations, and cutting-edge machine learning techniques.                              | ![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVrd3gyNmxzb2hzNnV1NWUwbXdwY3JxbGdtOXprZGVqaDZiOTcyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6Gkz5AVTo7o4/giphy.gif)  |
 |-------------------|-------------------------------------------|
 
 
 ## 🔧 My Tech Stack
 - *Languages:* Python, PHP, JavaScript, typeScript, HTML, CSS
-- Libraries & Frameworks: React, Laravel, jQuery, Ajax, Bootstrap, Tkinter, AOS (Animate On Scroll)
-- *Tools & Databases:* MySQL Workbench, phpMyAdmin 
-- *Other Skills:* Figma ,starUml, Machine Learning, Object-Oriented Programming (OOP), JSON, Data Structures, Algorithms, Website Hosting 
+- Libraries & Frameworks: React, Laravel, jQuery, Ajax, tailwindCSS, Bootstrap, Tkinter, AOS (Animate On Scroll)
+- *Tools & Databases:* MySQL Workbench, MongoDB Mongoose, pyMongo, phpMyAdmin 
+- *Other Skills:* Algorithms, Figma ,starUml, Machine Learning, Object-Oriented Programming (OOP), JSON, Data Structures, jira service management, Notion, Website Hosting 
 
 ![Tech Logos](https://skillicons.dev/icons?i=php,laravel,mysql,js,react,git,figma,html,css,bootstrap,python&theme=light)
 
