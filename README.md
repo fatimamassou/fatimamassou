@@ -1,7 +1,11 @@
 
-# 🌟 Hello, I'm MASSOU FATIMA! 🌟
-| I'm a passionate full-stack developer student with 2 years of experience, constantly pushing my boundaries to learn and grow in the tech world. With a strong foundation in both front-end and back-end development, I enjoy bringing ideas to life with clean, efficient code, engaging animations, and cutting-edge machine learning techniques.                              | ![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVrd3gyNmxzb2hzNnV1NWUwbXdwY3JxbGdtOXprZGVqaDZiOTcyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6Gkz5AVTo7o4/giphy.gif)  |
-|-------------------|-------------------------------------------|
+# 🌟 Hey there! 🌟
+ I’m a curious full-stack developer student with 2+ years of hands-on experience ≈ building, breaking, and learning every day!
+I code both front and back (because why choose?) with love for clean UI, smooth animations, and smart logic.
+From HTML & CSS to PHP, JavaScript, Python, MySQL, jQuery, AJAX, Laravel, and even a sprinkle of machine learning ≈ I’m always leveling up!
+I love bringing ideas to life with interactive designs, responsive layouts, and a touch of ✨magic✨.
+Currently exploring: TypeScript, Tailwind, React, and all things beautiful in code.
+Forever learning. Forever building.                             
 
 
 ## 🔧 My Tech Stack
