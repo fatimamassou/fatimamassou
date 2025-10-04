@@ -16,8 +16,11 @@ Forever learning. Forever building.
 
 ![Tech Logos](https://skillicons.dev/icons?i=php,laravel,mysql,js,react,git,figma,html,css,bootstrap,python&theme=light)
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPunyapal&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" target="_blank">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPunyapal&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" />
+</a>
+
 ## 👩‍💻 Contact ME!
 - massoufatima23@gmail.com
 ---
-
-![Cute Anime GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgxbmFzOWJ0bTAyanRhbGVoenN4dmZ2bzkzNTRrcTZ2bnpqYXo5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB2szZH5JSIU0/giphy.gif).
+![Cute Anime GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgxbmFzOWJ0bTAyanRhbGVoenN4dmZ2bzkzNTRrcTZ2bnpqYXo5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB2szZH5JSIU0/giphy.gif)
