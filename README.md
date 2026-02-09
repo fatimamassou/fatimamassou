@@ -9,7 +9,7 @@ Forever learning. Forever building.
 
 
 ## 🔧 My Tech Stack
-- *Languages:* Python, PHP, JavaScript, typeScript
+- *Languages:* Python, PHP, JavaScript, TypeScript
 - *Libraries & Frameworks*: React, Redux, Laravel, jQuery, Ajax, tailwindCSS, Bootstrap, Tkinter, AOS (Animate On Scroll)
 - *Tools & Databases:* MySQL Workbench, MongoDB Mongoose, pyMongo, phpMyAdmin 
 - *Other Skills:* Algorithms, Figma ,starUml, Machine Learning, Object-Oriented Programming (OOP), JSON, Data Structures, jira service management, Notion, Website Hosting 
